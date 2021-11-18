@@ -1,5 +1,5 @@
-
 ‘timescale 1ns / 1ps
+
 module latch_dataflow(
     input d,
     output q,
